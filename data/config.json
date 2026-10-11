@@ -10,9 +10,9 @@
   "image_partage": "assets/hero.svg",
   "goatcounter": "",
   "couleurs": {
-    "fond": "#F7F3EE",
-    "nav": "#140F0A",
-    "accent": "#B5893F",
-    "texte": "#1A1410"
+    "fond": "#f2f6f9",
+    "nav": "#0e1f2c",
+    "accent": "#2980b9",
+    "texte": "#13202b"
   }
 }
